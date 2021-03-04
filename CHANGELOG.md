@@ -1,3 +1,76 @@
+# v1.19.3 (Tue Feb 23 2021)
+
+#### 🐛 Bug Fix
+
+- fix: use better selector for pie element [#131](https://github.com/virtru/virtuoso-design-system/pull/131) ([@ttdmayshark](https://github.com/ttdmayshark))
+
+#### Authors: 1
+
+- Tristan Mayshark ([@ttdmayshark](https://github.com/ttdmayshark))
+
+---
+
+# v1.19.2 (Mon Feb 22 2021)
+
+#### 🐛 Bug Fix
+
+- fix: add absolute positioning to content modal - CCR-17 [#124](https://github.com/virtru/virtuoso-design-system/pull/124) ([@suchak1](https://github.com/suchak1) [@kuguarpwnz](https://github.com/kuguarpwnz))
+
+#### Authors: 2
+
+- Krish Suchak ([@suchak1](https://github.com/suchak1))
+- Vlad Baranchuk ([@kuguarpwnz](https://github.com/kuguarpwnz))
+
+---
+
+# v1.19.1 (Wed Feb 17 2021)
+
+#### 🐛 Bug Fix
+
+- fix: use color for chart slice testid selector [#128](https://github.com/virtru/virtuoso-design-system/pull/128) ([@ttdmayshark](https://github.com/ttdmayshark))
+
+#### Authors: 1
+
+- Tristan Mayshark ([@ttdmayshark](https://github.com/ttdmayshark))
+
+---
+
+# v1.19.0 (Tue Feb 16 2021)
+
+#### 🚀 Enhancement
+
+- CCR-98 Use use '[hash:base64]' classnames for production [#127](https://github.com/virtru/virtuoso-design-system/pull/127) ([@kuguarpwnz](https://github.com/kuguarpwnz))
+
+#### Authors: 1
+
+- Vlad Baranchuk ([@kuguarpwnz](https://github.com/kuguarpwnz))
+
+---
+
+# v1.18.3 (Tue Feb 16 2021)
+
+#### 🐛 Bug Fix
+
+- [CCR-124] chore: add data-testids to various elements [#125](https://github.com/virtru/virtuoso-design-system/pull/125) ([@ttdmayshark](https://github.com/ttdmayshark))
+
+#### Authors: 1
+
+- Tristan Mayshark ([@ttdmayshark](https://github.com/ttdmayshark))
+
+---
+
+# v1.18.2 (Mon Feb 15 2021)
+
+#### 🐛 Bug Fix
+
+- CCR-98 Remove min-width for the tooltip [#126](https://github.com/virtru/virtuoso-design-system/pull/126) ([@kuguarpwnz](https://github.com/kuguarpwnz))
+
+#### Authors: 1
+
+- Vlad Baranchuk ([@kuguarpwnz](https://github.com/kuguarpwnz))
+
+---
+
 # v1.18.1 (Mon Feb 08 2021)
 
 #### 🐛 Bug Fix
